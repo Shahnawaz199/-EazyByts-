@@ -1,5 +1,12 @@
 # -EazyByts-
 
+
+**NOTE :- This file is a zip archive. To access its contents, please extract all the files and folders within. 
+Once extracted, you will be able to access everything properly**
+
+
+
+
 # CRM System
 
 ## Overview
@@ -41,6 +48,7 @@ When using this application, consider the following security measures:
 - **Sensitive Data**: Do not store sensitive information like passwords or personal identifiable information (PII) in plaintext.
 - **Access Control**: Use Firebase rules to restrict access to the database based on user roles.
 
-## License
-This project is licensed under the MIT License.
+
+
+
 
